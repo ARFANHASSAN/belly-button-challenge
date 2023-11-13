@@ -6,7 +6,7 @@ Dashboard.
 
 # Deployment:
 
-You can access the dashboard through the following link.
+You can access the dashboard through the following link.https://arfanhassan.github.io/belly-button-challenge/
 
 # Background:
 
